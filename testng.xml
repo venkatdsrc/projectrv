@@ -11,6 +11,7 @@
         <classes>
             <class name="com.dsrc.seleniumtest.framework.pagetests.LoginTest" />
         </classes>
+        
     </test>
  
 </suite>
